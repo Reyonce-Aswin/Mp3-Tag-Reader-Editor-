@@ -1,4 +1,4 @@
-# 🎵 MP3 Tag Reader – Editor
+# MP3 Tag Reader – Editor
 
 A C-based command-line tool to **read and edit ID3v1 and ID3v2 MP3 tags**.  
 This project demonstrates low-level file handling, metadata parsing, and tag manipulation using the C language.
@@ -126,16 +126,9 @@ Example:
 ## 🧑‍💻 Author
 
 **Reyonce Aswin**  
-🎓 Embedded Systems Student @ Emertxe Information Technologies, Bangalore  
-🎶 Music Producer | C Programmer | Open-Source Enthusiast  
+🎓 Embedded Systems Student @ Emertxe Information Technologies, Bangalore   
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it with attribution.
-
----
 
 > 💬 *If you find this project useful, give it a ⭐ on GitHub!*

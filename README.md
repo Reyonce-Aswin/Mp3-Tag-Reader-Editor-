@@ -29,7 +29,7 @@ This program allows users to:
 ---
 
 ## 🗂️ File Structure
-
+```
 MP3-Tag-Reader-Editor/
 ├── main.c          # Entry point – parses arguments and controls flow
 ├── tag_read.c      # Handles reading ID3v2 tags and printing metadata
@@ -39,7 +39,7 @@ MP3-Tag-Reader-Editor/
 ├── tag.h           # Common structures, enums, and function prototypes
 ├── colour.h        # ANSI color/style definitions for console output
 └── README.md       # Project documentation
-
+```
 ---
 
 ## ⚙️ Build Instructions
